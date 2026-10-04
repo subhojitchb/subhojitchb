@@ -1,10 +1,23 @@
 <div align="center">
 
-# Subhojit Chakraborty
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=220&section=header&text=SUBHOJIT%20CHAKRABORTY&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Building%20Ideas%20Into%20Working%20Software&descAlignY=58&descSize=18"/>
 
-### Building ideas into working software.
+<br>
 
-**Web Development • Mobile Applications • IoT • Security**
+<a href="https://github.com/subhojitchb">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=750&lines=Building+Web+Applications;Developing+Mobile+Experiences;Engineering+IoT+Systems;Exploring+Cybersecurity;Working+With+Emerging+Technologies;Turning+Ideas+Into+Working+Products" />
+</a>
+
+<br>
+
+<p>
+  <a href="https://www.linkedin.com/in/subhojitchb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/subhojitchb">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
@@ -12,45 +25,75 @@
 
 ## 👋 About Me
 
-I build practical software products with a focus on turning ideas into usable, well-structured applications.
+I'm a developer focused on **building practical software products** rather than stopping at ideas.
 
-My work spans **web development, mobile applications, IoT systems, and security-focused technology**. I enjoy taking a project from an initial concept through implementation, testing, and deployment.
+I enjoy taking a concept from **problem → design → implementation → deployment**, with projects spanning web applications, mobile development, IoT systems and security-oriented technology.
 
-Currently exploring deeper into **software engineering, IoT, cybersecurity, blockchain technology, and AI-driven applications**.
+Currently exploring deeper into:
 
----
+- Software Engineering
+- IoT & Connected Systems
+- Cybersecurity
+- Mobile Development
+- AI & Emerging Technologies
 
-## 🛠️ Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### Areas of Interest
-
-`IoT` `Cybersecurity` `Blockchain` `AI/ML` `Software Engineering`
+> **Build it. Test it. Improve it. Ship it.**
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Web Applications
+
+Interactive applications with clean interfaces, CRUD systems, dashboards, analytics and persistent data.
+
+</td>
+
+<td width="50%">
+
+### 📱 Mobile Applications
+
+Flutter-based applications with a focus on practical workflows and real-world device integration.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📡 IoT Systems
+
+Exploring connected devices, wearable data, Bluetooth communication and real-time monitoring.
+
+</td>
+
+<td width="50%">
+
+### 🛡️ Security
+
+Exploring cybersecurity concepts and building applications with security-conscious workflows.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
 
 ### 🏥 HealthGuard
 
 **Automated Health Monitoring & Emergency Response**
 
-A mobile application exploring real-time health monitoring through wearable/Bluetooth data with a single-tap emergency response workflow.
+A mobile health-monitoring application exploring wearable/Bluetooth health data, real-time monitoring and single-tap emergency response.
 
-**Tech:** `Flutter` `Dart` `BLE` `IoT` `Android`
+**Stack**
+
+`Flutter` `Dart` `Android` `BLE` `IoT`
 
 > 🚧 Currently under active development.
 
@@ -58,11 +101,15 @@ A mobile application exploring real-time health monitoring through wearable/Blue
 
 ### 💰 LifeFlow
 
-**Personal Finance & Routine Intelligence Dashboard**
+**Personal Finance & Routine Intelligence**
 
-A personal management application combining expense tracking, daily journaling, activity logging and rule-based routine analysis.
+A personal management platform combining expense tracking, daily journaling, activity logging and rule-based routine analysis.
 
-**Tech:** `HTML` `CSS` `JavaScript` `LocalStorage`
+**Stack**
+
+`HTML` `CSS` `JavaScript` `LocalStorage`
+
+🔗 **[Live Demo](https://subhojitchb.github.io/LifeFlow/)**
 
 ---
 
@@ -70,11 +117,13 @@ A personal management application combining expense tracking, daily journaling, 
 
 **Workout Tracking & Analytics**
 
-A CRUD-based workout management application for recording exercises, sets, reps, weight and training progress.
+A fitness tracking application for managing workouts, exercises, sets, reps, volume and personal progress.
 
-**Tech:** `HTML` `CSS` `JavaScript` `LocalStorage`
+**Stack**
 
-🔗 [Live Demo](https://subhojitchb.github.io/Iron-Log-Workout-Tracer-/)
+`HTML` `CSS` `JavaScript` `LocalStorage`
+
+🔗 **[Live Demo](https://subhojitchb.github.io/Iron-Log-Workout-Tracer-/)**
 
 ---
 
@@ -82,57 +131,100 @@ A CRUD-based workout management application for recording exercises, sets, reps,
 
 **Job & Internship Application Management**
 
-A web application for organizing job applications, tracking application status, filtering opportunities and maintaining application records.
+A web application for organizing applications, tracking hiring stages, searching opportunities and managing application records.
 
-**Tech:** `HTML` `CSS` `JavaScript` `LocalStorage`
+**Stack**
 
----
-
-## 🔭 Currently Building
-
-**HealthGuard** — wearable health monitoring & emergency response
-
-**LifeFlow** — personal finance, journaling & routine analysis
+`HTML` `CSS` `JavaScript` `LocalStorage`
 
 ---
 
-## 🎯 What I Like Building
-
-- Practical web applications
-- Mobile applications
-- Data-driven dashboards
-- IoT and wearable systems
-- Security-focused solutions
-- Tools that solve everyday problems
-
----
-
-## 📈 GitHub Activity
+# 🧰 Technology
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhojitchb&show_icons=true&theme=transparent&hide_border=true)
+### Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhojitchb&layout=compact&theme=transparent&hide_border=true)
+<img src="https://skillicons.dev/icons?i=python,c,js,dart" />
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=html,css,flutter,android,git,github,vscode" />
+
+### Exploring
+
+<img src="https://skillicons.dev/icons?i=arduino,linux" />
 
 </div>
 
 ---
 
-## 🤝 Connect
+# 🔭 Currently Building
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/subhojitchb/))
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subhojitchb)
+| Project | Focus | Status |
+|---|---|---|
+| 🏥 **HealthGuard** | Mobile • BLE • IoT | 🚧 Building |
+| 💰 **LifeFlow** | Web • Analytics • Automation | 🟢 Live |
+| 🏋️ **IronLog** | Web • CRUD • Analytics | 🟢 Live |
 
 </div>
 
 ---
 
+# 📊 GitHub Activity
+
 <div align="center">
 
-**Always building. Always learning.**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=subhojitchb&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhojitchb&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=subhojitchb&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Development Philosophy
+
+<div align="center">
+
+### **Don't just learn technology. Build with it.**
+
+<br>
+
+**Ideas → Experiments → Projects → Products**
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/subhojitchb/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/subhojitchb">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E3A5F,100:0F172A&height=120&section=footer"/>
 
 </div>
